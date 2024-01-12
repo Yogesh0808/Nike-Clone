@@ -8,8 +8,8 @@ class CustomerReviews extends Component {
         return (
         <section id="" className="max-container">
         <h3 className="font-bold font-palanquin text-center text-4xl">What Our
-        <span className="text-coral-red">Customers
-        </span>Say?</h3>
+        <span className="text-coral-red"> Customers
+        </span> Say?</h3>
         <p className="info-text mt-4 m-auto max-w-lg text-center">Here genuine stores from our satisafied customers about thier expectional Experienece with us.</p>
         <div className="mt-24 flex justify-evenly items-center max-lg:flex-col gap-14">
         {reviews.map((review) => (
