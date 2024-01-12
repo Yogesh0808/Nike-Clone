@@ -13,7 +13,7 @@ const SpecialOffer = () => {
     </div>
 
     <div className="flex flex-1 flex-col">
-      <h2 className="font-palanquin text-4xl capitalize max-sm:text-[72px] max-sm:leading-[82] font-bold">
+      <h2 className="font-palanquin text-4xl capitalize max-sm:text-[72px] max-sm:leading-[82px] font-bold">
       <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10"><span className="text-coral-red"> Special</span> Offer</span>
       </h2>
       <p className="info-text lg:max-w-lg  font-montserrat text-lg text-slate-gray leading-8 mt-6 mb-4"> Ensuring Premium comfort and style,our meticulously crafted forever is designed to elevate your experience.providing you with unmatched quality, innovation and a touch of the elegance.</p>
