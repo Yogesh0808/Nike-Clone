@@ -8,7 +8,7 @@ const SuperQuality = () => {
     <section id="about-us" className="flex justify-between items-center max-lg:flex-col gap-10 w-full max-container">
       <div className="flex flex-1 flex-col">
       <h2 className="font-palanquin text-4xl capitalize max-sm:text-[72px] max-sm:leading-[82px] font-bold">
-      <span className="xl:bg-white xl:whitespace-nowrap relative z-10 pr-10">We Provide You
+      <span className="relative z-10 pr-10">We Provide You
       <span className="text-coral-red"> Super
       <br />
       Quality</span> Shoes</span>
